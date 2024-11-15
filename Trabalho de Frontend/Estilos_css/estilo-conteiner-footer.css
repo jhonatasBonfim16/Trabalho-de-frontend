@@ -1,0 +1,35 @@
+
+.footer-conteiner{
+    width: 98.5vw;
+    background-color: rgb(0, 0, 0);
+    color:white;
+    height:80%;
+    white-space: nowrap;
+
+}
+.footer-conteiner-div0{
+    width: 100%;
+    color:white;
+    height:30vw;
+    display: flex;
+    justify-content:start;
+    white-space: nowrap;
+}
+
+.footer-conteiner-div2{
+    display:flex;
+    justify-content: space-evenly;
+    width:60vw;
+    padding:10px;
+    white-space: nowrap;
+}
+.pcopy{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size:15pt;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    white-space: nowrap;
+}
